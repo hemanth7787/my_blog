@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on Minimo</title>
-    <link>http://www.example.com/blog/</link>
+    <link>https://hemanth7787.github.io/my_blog/blog/</link>
     <description>Recent content in Blog on Minimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 20 May 2017 12:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://www.example.com/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hemanth7787.github.io/my_blog/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Menus</title>
-      <link>http://www.example.com/blog/menus/</link>
+      <link>https://hemanth7787.github.io/my_blog/blog/menus/</link>
       <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/blog/menus/</guid>
+      <guid>https://hemanth7787.github.io/my_blog/blog/menus/</guid>
       <description>Minimo has two menus.
  Main Menu Social Menu  Main Menu Main menu is located at the top of the site.
 For adding content entries to the Main menu simply add the menu variable in it&amp;rsquo;s Front Matter.
@@ -27,10 +27,10 @@ For TOML format:
     
     <item>
       <title>Pagination</title>
-      <link>http://www.example.com/blog/pagination/</link>
+      <link>https://hemanth7787.github.io/my_blog/blog/pagination/</link>
       <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/blog/pagination/</guid>
+      <guid>https://hemanth7787.github.io/my_blog/blog/pagination/</guid>
       <description>Minimo supports pagination on List pages.
 For configuring it, there are two options:
  Paginate PaginatePath  Details can be found at Hugo&amp;rsquo;s Pagination Documentation.</description>
@@ -38,10 +38,10 @@ For configuring it, there are two options:
     
     <item>
       <title>Typography</title>
-      <link>http://www.example.com/blog/typography/</link>
+      <link>https://hemanth7787.github.io/my_blog/blog/typography/</link>
       <pubDate>Fri, 19 May 2017 12:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/blog/typography/</guid>
+      <guid>https://hemanth7787.github.io/my_blog/blog/typography/</guid>
       <description>Heading 1 Here is a paragraph. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 Heading 2 Another one. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
 Heading 3 Yet another! Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</description>
@@ -49,20 +49,20 @@ Heading 3 Yet another! Excepteur sint occaecat cupidatat non proident, sunt in c
     
     <item>
       <title>Example config.toml</title>
-      <link>http://www.example.com/blog/example-config-toml/</link>
+      <link>https://hemanth7787.github.io/my_blog/blog/example-config-toml/</link>
       <pubDate>Thu, 18 May 2017 12:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/blog/example-config-toml/</guid>
+      <guid>https://hemanth7787.github.io/my_blog/blog/example-config-toml/</guid>
       <description>Here&amp;rsquo;s an example for config.toml file.
 baseURL = &amp;quot;http://www.example.com&amp;quot; title = &amp;quot;Minimo&amp;quot; theme = &amp;quot;minimo&amp;quot; googleAnalytics = &amp;quot;UA-XXXX-X&amp;quot; Paginate = 5 [params] description = &amp;quot;Minimalist theme for Hugo&amp;quot; dateFormat = &amp;quot;2006, Jan 2&amp;quot; copyrightOwner = &amp;quot;MunifTanjim&amp;quot; copyrightStartYear = &amp;quot;2017&amp;quot; [taxonomies] category = &amp;quot;categories&amp;quot; tag = &amp;quot;tags&amp;quot; [author] name = &amp;quot;Minimo&amp;quot; [author.social] github = &amp;quot;Minimo&amp;quot; facebook = &amp;quot;Minimo&amp;quot; twitter = &amp;quot;Minimo&amp;quot; [permalinks] page = &amp;quot;/:slug/&amp;quot;  </description>
     </item>
     
     <item>
       <title>Installation</title>
-      <link>http://www.example.com/blog/installation/</link>
+      <link>https://hemanth7787.github.io/my_blog/blog/installation/</link>
       <pubDate>Wed, 17 May 2017 12:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/blog/installation/</guid>
+      <guid>https://hemanth7787.github.io/my_blog/blog/installation/</guid>
       <description>Create a Hugo site If you haven&amp;rsquo;t created a Hugo site yet, use the following command:
 hugo new site &amp;lt;name&amp;gt;  Replace the &amp;lt;name&amp;gt; with whatever you want to name your site&amp;rsquo;s repository. Alright, now enter the site&amp;rsquo;s root folder:
 cd &amp;lt;name&amp;gt;  Okay, now it&amp;rsquo;s time for installing Minimo!

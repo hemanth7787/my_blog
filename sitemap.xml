@@ -3,122 +3,122 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://www.example.com/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/</loc>
     <lastmod>2017-05-20T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/blog/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/blog/</loc>
     <lastmod>2017-05-20T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/about/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/about/</loc>
   </url>
   
   <url>
-    <loc>http://www.example.com/blog/menus/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/blog/menus/</loc>
     <lastmod>2017-05-20T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/blog/pagination/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/blog/pagination/</loc>
     <lastmod>2017-05-20T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/blog/typography/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/blog/typography/</loc>
     <lastmod>2017-05-19T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/blog/example-config-toml/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/blog/example-config-toml/</loc>
     <lastmod>2017-05-18T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/blog/installation/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/blog/installation/</loc>
     <lastmod>2017-05-17T12:00:00+06:00</lastmod>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/categories/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/config/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/tags/config/</loc>
     <lastmod>2017-05-18T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/example/</loc>
-    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/feature/</loc>
-    <lastmod>2017-05-20T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/categories/features/</loc>
-    <lastmod>2017-05-20T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/how-to/</loc>
-    <lastmod>2017-05-17T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/install/</loc>
-    <lastmod>2017-05-17T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/lorem-ipsum/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/tags/example/</loc>
     <lastmod>2017-05-19T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/tags/menu/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/tags/feature/</loc>
     <lastmod>2017-05-20T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/others/</loc>
-    <lastmod>2017-05-18T12:00:00+06:00</lastmod>
+    <loc>https://hemanth7787.github.io/my_blog/categories/features/</loc>
+    <lastmod>2017-05-20T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/page/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/tags/</loc>
-    <lastmod>2017-05-18T12:00:00+06:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.example.com/categories/tutorial/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/tags/how-to/</loc>
     <lastmod>2017-05-17T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>http://www.example.com/categories/typography/</loc>
+    <loc>https://hemanth7787.github.io/my_blog/tags/install/</loc>
+    <lastmod>2017-05-17T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hemanth7787.github.io/my_blog/tags/lorem-ipsum/</loc>
+    <lastmod>2017-05-19T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hemanth7787.github.io/my_blog/tags/menu/</loc>
+    <lastmod>2017-05-20T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hemanth7787.github.io/my_blog/categories/others/</loc>
+    <lastmod>2017-05-18T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hemanth7787.github.io/my_blog/page/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hemanth7787.github.io/my_blog/tags/</loc>
+    <lastmod>2017-05-18T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hemanth7787.github.io/my_blog/categories/tutorial/</loc>
+    <lastmod>2017-05-17T12:00:00+06:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://hemanth7787.github.io/my_blog/categories/typography/</loc>
     <lastmod>2017-05-19T12:00:00+06:00</lastmod>
     <priority>0</priority>
   </url>

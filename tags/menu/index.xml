@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Menu on Minimo</title>
-    <link>http://www.example.com/tags/menu/</link>
+    <link>https://hemanth7787.github.io/my_blog/tags/menu/</link>
     <description>Recent content in Menu on Minimo</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Sat, 20 May 2017 12:00:00 +0600</lastBuildDate>
     
-	<atom:link href="http://www.example.com/tags/menu/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://hemanth7787.github.io/my_blog/tags/menu/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Menus</title>
-      <link>http://www.example.com/blog/menus/</link>
+      <link>https://hemanth7787.github.io/my_blog/blog/menus/</link>
       <pubDate>Sat, 20 May 2017 12:00:00 +0600</pubDate>
       
-      <guid>http://www.example.com/blog/menus/</guid>
+      <guid>https://hemanth7787.github.io/my_blog/blog/menus/</guid>
       <description>Minimo has two menus.
  Main Menu Social Menu  Main Menu Main menu is located at the top of the site.
 For adding content entries to the Main menu simply add the menu variable in it&amp;rsquo;s Front Matter.
